@@ -1,0 +1,6 @@
+com/aop/repo/MovieRepository.class
+com/aop/repo/ActorRepository.class
+com/aop/repo/AfterAdvice.class
+com/aop/repo/BeforeAdvice.class
+com/aop/AOPProject/App.class
+com/aop/repo/ConfigClass.class
